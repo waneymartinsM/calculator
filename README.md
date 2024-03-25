@@ -10,9 +10,10 @@ Calculator é um aplicativo de calculadora elegante e fácil de usar desenvolvid
 - Porcentagem: Calcula a porcentagem de um número.
 
 # 📱 Capturas de Tela
-<div style="text-align: center;">
-  <img src="screenshots/Screenshot_Home.png" width="50%">
-</div>
+<p style="text-align: center;">
+  <img src="screenshots/Screenshot_Home.png" style="display: block; margin: 0 auto;" width="50%">
+</p>
+
 
 # 🛠️ Como Utilizar
 Para utilizar o Calculator, siga estas etapas:
